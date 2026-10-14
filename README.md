@@ -9,7 +9,7 @@ I'm a Cybersecurity & Governance, Risk and Compliance Professional with a strong
 - Security Analytics
 - Database Administration
 
-## 🛠️ Skills & Tools
+ 🛠️ Skills & Tools
 
 - GRC: ServiceNow GRC, Archer, OneTrust, AuditBoard
 - Governance & Compliance: ISO 27001, NIST, Cyber Essentials, Risk Registers, Control Frameworks, Compliance Assessments
@@ -20,7 +20,7 @@ I'm a Cybersecurity & Governance, Risk and Compliance Professional with a strong
 - Threat Intelligence: Maltego, VirusTotal, Shodan
 - Network & Security: Wireshark, Kali Linux
 - Project & Collaboration: Jira, Confluence
-- **Database: SQL, SQL Server & Database Administration
+- Database: SQL, SQL Server & Database Administration
 - Frameworks: ISO 27001, NIST, Cyber Essentials
 
 🎯 My Goals
