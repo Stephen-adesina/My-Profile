@@ -18,7 +18,7 @@ I'm a Cybersecurity & Governance, Risk and Compliance Professional with a strong
 - Security Operations: Microsoft Sentinel, Microsoft Defender, Splunk, Elastic
 - Vulnerability Management: Tenable/Nessus, Rapid7, CVSS
 - Threat Intelligence: Maltego, VirusTotal, Shodan
-- Network & Security: Wireshark, Kali Linux
+- Network & Security: Wireshark, Kali Linux, Cisco Packet Tracer, Oracle VirtualBox
 - Project & Collaboration: Jira, Confluence
 - Database: SQL, SQL Server & Database Administration
 - Frameworks: ISO 27001, NIST, Cyber Essentials
