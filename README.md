@@ -40,10 +40,12 @@ I am particularly interested in opportunities involving:
 
  ⚽ Fun Fact About Me
 
-Outside of cybersecurity/GRC, I enjoy football , hiking , photography , running and travelling . I also love exploring new places and taking photographs along the way.
+Outside of cybersecurity/GRC, I enjoy football , hiking , photography , running and travelling . I also love exploring new places and taking photographs along the way and building home labs to develop my technical skills.
 
 📫 How to Reach Me
 
 - LinkedIn: www.linkedin.com/in/stephen-adesina-592503297
 
-Thanks for visiting my profile! I'm always learning, building and developing my skills in cybersecurity and GRC.
+Let's Connect 🤝
+
+I'm always keen to learn from others, collaborate on projects and connect with professionals across cybersecurity, GRC, Information Security and AI Governance.
